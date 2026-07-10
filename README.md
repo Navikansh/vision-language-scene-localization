@@ -27,5 +27,3 @@
 ### Attention-Weighted Frame Selection *(Under Progress)*
 - Integrates attention maps from CLIP's vision encoder.
 - Prioritizes regions containing the most query-relevant features.
-- **Note:** My current implementation gave **worse results** than the previous approach.  
-  Due to time constraints, I couldn't fully debug it before submission.
